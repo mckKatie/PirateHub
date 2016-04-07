@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a973b956-4356-4d92-8e82-0ef4804d85ae" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PirateHub/www/AcademicCalendar.html" afterPath="$PROJECT_DIR$/PirateHub/www/AcademicCalendar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PirateHub/www/Blackboard.html" afterPath="$PROJECT_DIR$/PirateHub/www/Blackboard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PirateHub/www/EventCalendar.html" afterPath="$PROJECT_DIR$/PirateHub/www/EventCalendar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PirateHub/www/FacebookAPI.html" afterPath="$PROJECT_DIR$/PirateHub/www/FacebookAPI.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PirateHub/www/InstagramAPI.html" afterPath="$PROJECT_DIR$/PirateHub/www/InstagramAPI.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PirateHub/www/LocationServices.html" afterPath="$PROJECT_DIR$/PirateHub/www/LocationServices.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PirateHub/www/Map.html" afterPath="$PROJECT_DIR$/PirateHub/www/Map.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PirateHub/www/Phonebook.html" afterPath="$PROJECT_DIR$/PirateHub/www/Phonebook.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PirateHub/www/SodexoMenu.html" afterPath="$PROJECT_DIR$/PirateHub/www/SodexoMenu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PirateHub/www/SportsCalendar.html" afterPath="$PROJECT_DIR$/PirateHub/www/SportsCalendar.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PirateHub/www/css/grayscale.css" afterPath="$PROJECT_DIR$/PirateHub/www/css/grayscale.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PirateHub/www/index.html" afterPath="$PROJECT_DIR$/PirateHub/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -50,17 +40,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PirateHub/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.5">
-              <caret line="132" column="33" selection-start-line="132" selection-start-column="33" selection-end-line="132" selection-end-column="33" />
-              <folding />
+            <state vertical-scroll-proportion="-9.254545">
+              <caret line="107" column="128" selection-start-line="107" selection-start-column="128" selection-end-line="107" selection-end-column="128" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logo.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PirateHub/www/img/logo.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -75,6 +60,16 @@
         <entry file="file://$PROJECT_DIR$/PirateHub/www/img/map-marker.png">
           <provider selected="true" editor-type-id="images">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PirateHub/www/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.206897">
+              <caret line="4246" column="12" selection-start-line="4246" selection-start-column="11" selection-end-line="4246" selection-end-column="12" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -99,18 +94,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CampusMap.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CampusMap.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PirateHub/www/img/CampusMap.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="grayscale.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="grayscale.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PirateHub/www/css/grayscale.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="150" column="27" selection-start-line="150" selection-start-column="25" selection-end-line="150" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.71460676">
+              <caret line="146" column="25" selection-start-line="146" selection-start-column="25" selection-end-line="146" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -127,6 +122,8 @@
         <option value="$PROJECT_DIR$/PirateHub/www/Map.html" />
         <option value="$PROJECT_DIR$/PirateHub/www/LocationServices.html" />
         <option value="$PROJECT_DIR$/PirateHub/www/index.html" />
+        <option value="$PROJECT_DIR$/PirateHub/www/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/PirateHub/www/css/grayscale.css" />
       </list>
     </option>
   </component>
@@ -140,7 +137,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1932" />
+    <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -238,6 +235,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PirateHub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PirateHub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PirateHub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -323,10 +342,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1932" height="1056" extended-state="1" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18997912" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18958333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -379,7 +398,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="127" column="33" selection-start-line="127" selection-start-column="33" selection-end-line="127" selection-end-column="33" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -429,7 +450,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="127" column="33" selection-start-line="127" selection-start-column="33" selection-end-line="127" selection-end-column="33" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -487,7 +510,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -522,14 +547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PirateHub/www/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3625" column="21" selection-start-line="3625" selection-start-column="14" selection-end-line="3625" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PirateHub/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -550,32 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="104" column="114" selection-start-line="104" selection-start-column="114" selection-end-line="104" selection-end-column="114" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PirateHub/www/LocationServices.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.576923">
-          <caret line="111" column="62" selection-start-line="111" selection-start-column="62" selection-end-line="111" selection-end-column="62" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PirateHub/www/css/grayscale.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="150" column="27" selection-start-line="150" selection-start-column="25" selection-end-line="150" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PirateHub/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.5">
-          <caret line="132" column="33" selection-start-line="132" selection-start-column="33" selection-end-line="132" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -613,6 +604,42 @@
     <entry file="file://$PROJECT_DIR$/PirateHub/www/img/CampusMap.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PirateHub/www/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.206897">
+          <caret line="4246" column="12" selection-start-line="4246" selection-start-column="11" selection-end-line="4246" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PirateHub/www/LocationServices.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.576923">
+          <caret line="111" column="62" selection-start-line="111" selection-start-column="62" selection-end-line="111" selection-end-column="62" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PirateHub/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.254545">
+          <caret line="107" column="128" selection-start-line="107" selection-start-column="128" selection-end-line="107" selection-end-column="128" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PirateHub/www/css/grayscale.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71460676">
+          <caret line="146" column="25" selection-start-line="146" selection-start-column="25" selection-end-line="146" selection-end-column="25" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

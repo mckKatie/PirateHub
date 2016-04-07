@@ -144,12 +144,12 @@ a:focus {
     display: table;
     width: 100%;
     height: auto;
-    padding-top: 100px !important;
+    padding: 100px 50px 0 0;
     text-align: center;
     color: #ff4242;
     background-repeat: no-repeat;
     background-position: bottom center;
-    background-image: url(../img/piratehublogo.png);
+    /*background-image: url(../img/tmpBkgImg.png);*/
     background-attachment: scroll;
     background-color: #000;
     -webkit-background-size: contain;
